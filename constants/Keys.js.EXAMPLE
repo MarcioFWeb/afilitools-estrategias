@@ -1,0 +1,5 @@
+module.exports = {
+    applicationId: 'get-into-back4-app-your-app-id',
+    javascriptKey: 'get-into-back4-app-your-js-key',
+    serverURL: 'https://parseapi.back4app.com/'
+}
