@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "afilitools-estrategias",
+    "name": "Afilitools Estratégias para Afiliados (v 1.2.0)",
     "slug": "afilitools-estrategias",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "Afilitools Guias Passo a Passo (Estratégias de Marketing Digital, Paso a Passo para Afiliados)\nAplicação com passo a passo estilo CARD´s para utilização por afiliados para executarem estratégias exclusivas e com resultados comprovados.\n\nTem como objetivo quebrar a barreira do aprendizado e estudo sem prático.\n\nPrática pura, passo a passo, para executar e obter resultados.\n\nBusca ser também uma fonte única dos processos de marketing dos afiliados para padronizar a qualidade das suas ações e acelerar o processo de execução diária.\n\nAutor: Marcio Figueiredo\nPROJETO APLICADO do MBA MOBILE no IGTI",
+    "githubUrl": "https://github.com/MarcioFWeb/afilitools-estrategias"
   }
 }

@@ -4,7 +4,6 @@ import { StyleSheet, Text, View } from 'react-native';
 import Parse from "parse/react-native.js";
 import AsyncStorage from '@react-native-community/async-storage';
 import keys from './constants/Keys';
-import guides from './Guide';
 
 Parse.setAsyncStorage(AsyncStorage);
 Parse.initialize(keys.applicationId, keys.javascriptKey);
